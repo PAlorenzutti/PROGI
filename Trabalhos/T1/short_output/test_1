@@ -1,0 +1,18 @@
+banco 003
+agencia 4762
+correntista 15587 saldo -92.81
+correntista 22233 saldo 239.86
+correntista 32112 saldo -1699.90
+saldo agencia -1552.85
+agencia 2777
+correntista 90900 saldo -633.24
+correntista 21212 saldo 106.57
+saldo agencia -526.67
+saldo banco deficitario: -2079.52
+banco 141
+agencia 3445
+operacao suspeita: correntista 13333 valor 30101.01
+correntista 13333 saldo 30590.03
+saldo agencia 30590.03
+segundo maior correntista: banco 003 agencia 4762 correntista 22233 saldo 239.86
+maior correntista: banco 141 agencia 3445 correntista 13333 saldo 30590.03

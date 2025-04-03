@@ -1,0 +1,16 @@
+Flamengo 3 Palmeiras 1
+Santos 2 Sao-Paulo 0
+IntErnacional 1 Gremio 1
+CoRinthians 2 Fluminense 1
+Atletico-MG 4 BOTAFOGO 2
+Bahia 0 Vasco 3
+Athletico-PR 1 Ceara 0
+Fortaleza 2 CruZeiro 2
+Goias 3 Chapecoense 1
+Sport 1 Atletico-GO 0
+Fluminense 2 Internacional 2
+Sao-Paulo 3 FoRtaleza 0
+botafogo 1 Corinthians 2
+Gremio 2 AtHletico-PR 1
+Palmeiras 3 SANTOS 2
+

@@ -1,0 +1,21 @@
+banco 007
+agencia 9876
+correntista 76543 saldo 0.00
+correntista 92789 saldo 0.00
+correntista 73467 saldo 0.00
+saldo agencia 0.00
+agencia 2172
+correntista 98347 saldo 9445.75
+correntista 13898 saldo -31.39
+saldo agencia 9414.36
+banco 821
+agencia 2746
+operacao suspeita: correntista 28364 valor 900024.83
+correntista 28364 saldo 900271.15
+saldo agencia 900271.15
+agencia 2453
+correntista 12446 saldo -453.99
+correntista 24984 saldo -26.99
+saldo agencia -480.98
+segundo maior correntista: banco 007 agencia 2172 correntista 98347 saldo 9445.75
+maior correntista: banco 821 agencia 2746 correntista 28364 saldo 900271.15

@@ -1,0 +1,6 @@
+Dudu, 20110320, 6.66, PF
+Beltrano de Tal, 20141234, 5.71, PF
+Fulano de Tal, 20150100, 6.33, PF
+Sicrano de Tal, 20170010, 9.03, AP
+Du, 20189300, 4.43, PF
+Edu, 20191534, 8.39, AP

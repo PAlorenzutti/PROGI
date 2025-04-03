@@ -1,0 +1,16 @@
+1: Atletico-mg Pontos: 3 Vitorias: 1 Pro: 5 Contra: 0 Saldo: 5 Eficiencia: 100.00%
+2: Flamengo Pontos: 3 Vitorias: 1 Pro: 4 Contra: 2 Saldo: 2 Eficiencia: 100.00%
+3: Vasco-da-gama Pontos: 3 Vitorias: 1 Pro: 4 Contra: 2 Saldo: 2 Eficiencia: 100.00%
+4: Athletico-pr Pontos: 3 Vitorias: 1 Pro: 3 Contra: 1 Saldo: 2 Eficiencia: 100.00%
+5: Fortaleza Pontos: 3 Vitorias: 1 Pro: 4 Contra: 3 Saldo: 1 Eficiencia: 100.00%
+6: Corinthians Pontos: 3 Vitorias: 1 Pro: 3 Contra: 2 Saldo: 1 Eficiencia: 100.00%
+7: Internacional Pontos: 3 Vitorias: 1 Pro: 2 Contra: 1 Saldo: 1 Eficiencia: 100.00%
+8: Santos Pontos: 1 Vitorias: 0 Pro: 3 Contra: 3 Saldo: 0 Eficiencia: 33.33%
+9: Sao-paulo Pontos: 1 Vitorias: 0 Pro: 3 Contra: 3 Saldo: 0 Eficiencia: 33.33%
+10: Cruzeiro Pontos: 0 Vitorias: 0 Pro: 3 Contra: 4 Saldo: -1 Eficiencia: 0.00%
+11: Fluminense Pontos: 0 Vitorias: 0 Pro: 2 Contra: 3 Saldo: -1 Eficiencia: 0.00%
+12: Gremio Pontos: 0 Vitorias: 0 Pro: 1 Contra: 2 Saldo: -1 Eficiencia: 0.00%
+13: Bahia Pontos: 0 Vitorias: 0 Pro: 2 Contra: 4 Saldo: -2 Eficiencia: 0.00%
+14: Palmeiras Pontos: 0 Vitorias: 0 Pro: 2 Contra: 4 Saldo: -2 Eficiencia: 0.00%
+15: Ceara Pontos: 0 Vitorias: 0 Pro: 1 Contra: 3 Saldo: -2 Eficiencia: 0.00%
+16: Botafogo Pontos: 0 Vitorias: 0 Pro: 0 Contra: 5 Saldo: -5 Eficiencia: 0.00%

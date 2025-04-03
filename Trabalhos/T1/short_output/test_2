@@ -1,0 +1,19 @@
+banco 175
+agencia 3728
+correntista 09815 saldo -10315.10
+operacao suspeita: correntista 98376 valor 35093.76
+operacao suspeita: correntista 98376 valor -456029.76
+operacao suspeita: correntista 98376 valor 352283.87
+correntista 98376 saldo -68553.21
+saldo agencia -78868.31
+saldo banco deficitario: -78868.31
+banco 534
+agencia 6732
+operacao suspeita: correntista 23464 valor -1239473.32
+correntista 23464 saldo -1238947.02
+correntista 21390 saldo 0.00
+correntista 21445 saldo 1.00
+saldo agencia -1238946.02
+saldo banco deficitario: -1238946.02
+segundo maior correntista: banco 534 agencia 6732 correntista 21390 saldo 0.00
+maior correntista: banco 534 agencia 6732 correntista 21445 saldo 1.00
